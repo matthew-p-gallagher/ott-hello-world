@@ -2,7 +2,11 @@
 
 ## What they see...
 
+https://user-images.githubusercontent.com/60012816/213658995-c024eee0-3657-440a-9e04-ebfc0f6cfd57.mp4
+
 ## Behind the scenes...
+
+![annotated](https://user-images.githubusercontent.com/60012816/213659018-b7458e7d-d115-4ffd-a1a5-9359f98ad910.png)
 
 ### More info
 
